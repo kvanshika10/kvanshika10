@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kvanshika10&label=Profile%20views&color=0e75b6&style=flat" alt="kvanshika10" /> </p>
 
-- 🌱 I’m currently learning **backend development**
+- 🌱 I’m currently learning **ReactJS**
 
 - 💬 Ask me about **C++,Data Structures and Algorithms,Competitive Coding**
 
